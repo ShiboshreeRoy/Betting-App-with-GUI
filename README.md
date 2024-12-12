@@ -67,7 +67,7 @@ A Python-based GUI betting application built with Tkinter that simulates a betti
 
 3. Run the application:  
    ```bash  
-   python betting_app.py  
+   python main.py  
    ```  
 
 ---
