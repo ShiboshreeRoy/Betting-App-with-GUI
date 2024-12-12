@@ -16,7 +16,7 @@ A Python-based GUI betting application built with Tkinter that simulates a betti
 ---
 ## FlowChart
 ![Project Logo or Screenshot](./flowchart.png)
-![Project Logo or Screenshot](./project_Flow_chart.png)
+
 
 ---
 
